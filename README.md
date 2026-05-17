@@ -2,7 +2,7 @@
 
 # João Schwarzbach
 
-**Desenvolvedor Python · RPA/ERP/CRM*
+*Desenvolvedor Python · RPA/ERP/CRM*
 
 Construo desktop apps em PySide6 que tiram planilha e processo manual do meio do caminho — gestão de NFe, validação de bases de processos, BI executivo e automação de rotina.
 
