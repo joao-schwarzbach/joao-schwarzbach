@@ -52,4 +52,4 @@ Domínio      NFe/SEFAZ, regras fiscais, automação de planilhão
 ## Contato
 
 - E-mail: **joaolbschwarzbach@gmail.com**
-
+- https://www.linkedin.com/in/jo%C3%A3o-lu%C3%ADs-belmonte-schwarzbach-060667290/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION**
