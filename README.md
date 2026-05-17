@@ -2,7 +2,7 @@
 
 # João Schwarzbach
 
-**Desenvolvedor Python · Sistemas fiscais e ferramentas internas**
+**Desenvolvedor Python · RPA/ERP/CRM*
 
 Construo desktop apps em PySide6 que tiram planilha e processo manual do meio do caminho — gestão de NFe, validação de bases de processos, BI executivo e automação de rotina.
 
@@ -16,15 +16,7 @@ Construo desktop apps em PySide6 que tiram planilha e processo manual do meio do
 ---
 
 ## Projetos em destaque
-
-### Sistema NFE — Daisy Vargas Ferragens
-
-Sistema desktop completo de gestão fiscal e movimentação de notas para uma ferragem que atende dezenas de hospitais. Importa XMLs da SEFAZ direto da pasta do Gestão Click, descompacta ZIPs, extrai itens, casa Ordem de Compra por padrão de cada cliente, controla saída de estoque e entrega dashboard executivo + ranking de clientes + inteligência fiscal (NCM, CFOP, custo médio ponderado).
-
-- **Stack:** Python · PySide6 · SQLite · pandas · lxml · PyInstaller
-- **Volume real:** 10k+ NFes processadas, 22k+ itens, 90+ CNPJs distintos
-- **Diferenciais:** parsing de OC com mapa de padrões por hospital (UBEA, AESC, GHC, HCPA, Moinhos, Santa Casa, UNIMED…), backups automáticos do banco, atalhos de teclado (F5, Ctrl+F), exportação Excel
-- **UI:** tema escuro próprio ("Oráculo") com header LED pulsante, cards, tabelas Qt customizadas
+---
 
 ### Oráculo — Ramos Advogados
 
@@ -33,10 +25,18 @@ Ferramenta de saneamento e validação da base de processos de um escritório de
 - **Stack:** Python · PySide6 · pandas · openpyxl
 - **Saída:** planilha de erros (.xlsx) + relatório HTML formatado
 - **UX:** interface single-screen, dark mode, log em tempo real do processamento
-- **Identidade visual:** paleta azul-noite #0F1923 com destaque vermelho #C00000 — virou a referência de design que reuso nos outros projetos
+- **Identidade visual:** paleta azul-noite com destaque vermelho — virou a referência de design que reuso nos outros projetos
 
+### Sistema NFE — Daisy Vargas Ferragens
+
+Sistema desktop completo de gestão fiscal e movimentação de notas para uma ferragem que atende dezenas de hospitais. Importa XMLs da SEFAZ direto da pasta do Gestão Click, descompacta ZIPs, extrai itens, casa Ordem de Compra por padrão de cada cliente, controla saída de estoque e entrega dashboard executivo + ranking de clientes + inteligência fiscal (NCM, CFOP, custo médio ponderado).
+
+- **Stack:** Python · PySide6 · SQLite · pandas · lxml · PyInstaller
+- **Volume real:** 10k+ NFes processadas, 22k+ itens, 90+ CNPJs distintos
+- **Diferenciais:** Filtro de OC com mapa de padrões por hospital (UBEA, AESC, GHC, HCPA, Moinhos, Santa Casa, UNIMED…), backups automáticos do banco, atalhos de teclado (F5, Ctrl+F), exportação Excel
+- **UI:** tema escuro próprio com header LED pulsante, cards, tabelas Qt customizadas
+  
 ---
-
 ## O que eu uso
 
 ```
@@ -52,10 +52,10 @@ Domínio      NFe/SEFAZ, regras fiscais, automação de planilhão
 ## Contato
 
 - E-mail: **joaolbschwarzbach@gmail.com**
-- WhatsApp: **(51) 99537-0669**
+
 
 <div align="center">
 
-<sub>Sistemas reais, rodando em produção, resolvendo problema de quem usa planilha.</sub>
+<sub>Sistemas reais, rodando em produção — substituindo planilhão por dashboards e gráficos em tempo real.</sub>
 
 </div>
