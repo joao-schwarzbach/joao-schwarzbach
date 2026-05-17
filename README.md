@@ -53,9 +53,3 @@ Domínio      NFe/SEFAZ, regras fiscais, automação de planilhão
 
 - E-mail: **joaolbschwarzbach@gmail.com**
 
-
-<div align="center">
-
-<sub>Sistemas reais, rodando em produção — substituindo planilhão por dashboards e gráficos em tempo real.</sub>
-
-</div>
