@@ -4,7 +4,7 @@
 
 *Desenvolvedor Python · RPA/ERP/CRM*
 
-Construo desktop apps em PySide6 que tiram planilha e processo manual do meio do caminho — gestão de NFe, validação de bases de processos, BI executivo e automação de rotina.
+Construo apps em PySide6 que tiram planilha e processo manual do meio do caminho — gestão de NFe, validação de bases de processos, BI executivo e automação de rotina.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
