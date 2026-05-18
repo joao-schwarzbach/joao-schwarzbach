@@ -40,7 +40,7 @@ Sistema desktop completo de gestão fiscal e movimentação de notas para uma fe
 ## O que eu uso
 
 ```
-Linguagens   Python, SQL
+Linguagens   Python, SQL, JavaScript, HTML & CSS
 GUI          PySide6 / Qt
 Dados        pandas, openpyxl, lxml, SQLite
 Build        PyInstaller (executáveis Windows standalone)
