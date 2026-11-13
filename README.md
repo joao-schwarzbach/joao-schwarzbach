@@ -14,7 +14,7 @@
 
 ```console
 joao@portoalegre:~$ whoami
-Engenheiro de software focado em automação com Python no setor jurídico.
+Software Engineer focado em automação com Python no setor jurídico.
 Construo e mantenho robôs em produção que leem publicações e e-mails,
 cadastram processos e conversam com iiLex, AnyTask, SharePoint e
 Microsoft Graph — com LGPD, trilha de auditoria e revisão humana como
