@@ -21,9 +21,9 @@ Microsoft Graph — com LGPD, trilha de auditoria e revisão humana como
 parte da definição de pronto.
 
 joao@portoalegre:~$ git log --oneline carreira
-HEAD     05/2026 → hoje    Desenvolvedor de Automação Jr · Ramos Advogados
-a3f9c21  2023 → 2025       Analista de Sistemas e Operações · Daisy Vargas Ferragens
-7be04d8  2021 → 2023       Jovem Aprendiz · Caixa Econômica Federal
+Atual: 05/2026 → hoje Desenvolvedor de Automação Jr · Ramos Advogados
+2023 → 2025   Analista de Sistemas e Operações · Daisy Vargas Ferragens
+2021 → 2023   Jovem Aprendiz · Caixa Econômica Federal
 ```
 
 ## `$ stack --list`
