@@ -53,17 +53,17 @@ Como os robôs conversam no dia a dia de um escritório de advocacia:
 
 ```mermaid
 flowchart LR
-    A["E-mails, publicações<br/>e lotes de planilha"] --> B["ARGOS<br/>triagem · dedup · roteamento"]
-    B --> C["AnyTask BPM<br/>cadastro automatizado"]
-    B --> D["Cadastrador próprio<br/>leitura do eproc (BuscaJus)"]
-    B --> E[("SharePoint / Excel Online<br/>via Microsoft Graph")]
-    C --> F[("iiLex<br/>base de processos")]
+    A["E-mails, publicações e lotes de planilha"] --> B["ARGOS: triagem, dedup e roteamento"]
+    B --> C["AnyTask BPM: cadastro automatizado"]
+    B --> D["Cadastrador próprio: leitura do eproc"]
+    B --> E[("SharePoint e Excel Online via Microsoft Graph")]
+    C --> F[("iiLex: base de processos")]
     D --> F
-    F --> G["ORÁCULO<br/>saneamento dos campos"]
+    F --> G["ORÁCULO: saneamento dos campos"]
     G --> F
-    F --> H["CRONOS<br/>captura de prazos"]
-    I["Bifrost"] <--> F
-    I <--> J["Módulo jurídico<br/>do cliente"]
+    F --> H["CRONOS: captura de prazos"]
+    I["Bifrost"] --- F
+    I --- J["Módulo jurídico do cliente"]
 ```
 
 ## `$ ls projetos/`
